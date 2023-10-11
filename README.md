@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+### Background
+I have a bachelors in software engineering from Chalmers University of technology in Gothenburg, Sweden.
+
+I am currently studying a master's in data science and AI, also at Chalmers.
+
 <!--
-**Huggan00/HUggan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Huggan00/Huggan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
