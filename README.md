@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### Background
-I have a bachelors in software engineering from Chalmers University of technology in Gothenburg, Sweden.
+I have a bachelors in software engineering and a Master's degree in Data science and AI from Chalmers University of technology.
 
-I am currently studying a master's in data science and AI, also at Chalmers.
+I am currently employed as a software development consultant at AGREAT in Gothenburg.
 
 <!--
 **Huggan00/Huggan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
